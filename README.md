@@ -8,3 +8,6 @@ This is an edit by Teez
 
 okay
 -- contrubuted by [Mokgadi]
+
+mans edditing ReadMe init?
+--contributed by [Q]
